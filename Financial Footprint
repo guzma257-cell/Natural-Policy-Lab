@@ -1,23 +1,43 @@
-Checkings
+Baseline:
 
-Needs: $53.61
+  Checkings
+  
+  Needs: $53.61
+  Wants: $926.08
+  
+  Savings
+  
+  Needs: $353.47
+  Wants: $2913.68
+  
+  Cash
+  
+  Needs: $355.97
+  Wants: $31.05
+  
+  Footprint, Energy Ratio
+  
+  Needs: $0, 100% Renewables:0% Nonrenewables
+  Wants: $0, 100% Renewables:0% Nonrenewables
 
-Wants: $926.08
+Current: 
 
-Savings
-
-Needs: $353.47
-
-Wants: $2913.68
-
-Cash
-
-Needs: $355.97
-
-Wants: $31.05
-
-Footprint, Energy Ratio
-
-Needs: $0, 100% Renewables:0% Nonrenewables
-
-Wants: $0, 100% Renewables:0% Nonrenewables
+  Checkings
+  
+  Needs: $170.44
+  Wants: $925.98
+  
+  Savings
+  
+  Needs: $353.47
+  Wants: $2913.68
+  
+  Cash
+  
+  Needs: $365.97
+  Wants: $31.05
+  
+  Footprint, Energy Ratio
+  
+  Needs: $23.17, 85% Renewables:15% Nonrenewables
+  Wants: $0.10, 85% Renewables:15% Nonrenewables
